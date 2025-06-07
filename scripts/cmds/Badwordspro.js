@@ -1,5 +1,5 @@
 // --- Configuration ---
-const ADMIN_BOT_ID = 'YOUR_BOT_MESSENGER_ID'; // Replace with your bot's Messenger ID
+const ADMIN_BOT_ID = '61566216120426'; // Replace with your bot's Messenger ID
 const KICK_MESSAGE_PREFIX = 'User kicked for using forbidden language: ';
 
 // --- In-memory storage for bad words (replace with persistent storage in production) ---
